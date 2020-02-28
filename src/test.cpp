@@ -20,5 +20,5 @@ int main()
 									            window.display();
 										        }
 
-			    return 0;
+			    return 1;
 }
